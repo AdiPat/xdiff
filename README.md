@@ -1,6 +1,6 @@
 # xDiff: Document Similarity Checker
 
-## xDiff is a command line utility built in C++ for determining the percentage similarity between two text files using the Cosine Similarity Algorithm. I built this project just to brush up my knowledge of STL, so don't expect anything fancy here.
+xDiff is a command line utility built in C++ for determining the percentage similarity between two text files using the Cosine Similarity Algorithm. I built this project just to brush up my knowledge of STL, so don't expect anything fancy here.
 
 ## SETUP INSTRUCTIONS
 
@@ -22,7 +22,7 @@ make test
 ./xdiff_test
 ```
 
-## I'm always down for geeky banter! 🤓
+## **I'm always down for geeky banter!** 🤓
 
 Feel free to make changes and send me a pull-request. If there's anything that needs to be said, leave a comment and I'll definitely respond!
 

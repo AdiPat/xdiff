@@ -2,7 +2,7 @@
 
 xDiff is a command line utility built in C++ for determining the percentage similarity between two text files using the Cosine Similarity Algorithm. I built this project just to brush up my knowledge of STL, so don't expect anything fancy here.
 
-## SETUP INSTRUCTIONS
+## Setup Instructions
 
 Install GNU make, a C++ compiler and fire up your terminal.
 
